@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(210, 130, 34);
+}
+.grand{
+    background-color: black;
+    width: 650px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 300px;
+}
+.gauche{
+    display: flex;
+    flex-direction: column;
+    margin-right: 2px;
+    width: 400px;
+}
+.titre{
+    background-color: white;
+    margin-bottom: 2px;
+    padding: 5px 15px;
+}
+.profi{
+    background-color: white;
+    margin-bottom: 2px;
+}
+.educa{
+    background-color: white;
+    margin-bottom: 2px;
+}
+.expe{
+    background-color: white;
+}
+.droite{
+    display: flex;
+    flex-direction: column;
+    height: 1065px;
+}
+.photo{
+    background-color: rgb(88, 53, 12);
+    height: 250px;
+    margin-bottom: 2px;
+}
+.lan{
+    background-color: rgb(165, 117, 57);
+    height: 855px;
+    padding: 5px 15px;
+
+}
+img{
+    width: 130px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+#wi{
+    color:  rgb(159, 46, 8);
+}
+#pp{
+    width: 398px;
+    height: 40px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+    margin-left: 2px;
+
+}
+#ll{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+
+}
+#ee{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+
+}
+#cat{
+    color:  rgb(159, 46, 8);
+    margin: 10px;
+}
+#maps{
+    margin: 10px;
+    padding: 10px;
+}
+#exx{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+}
+#bar{
+    color: rgb(159, 46, 8) ;
+    margin: 10px;
+    padding: 10px;
+}
+#lls{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+}
+.ski ul li{
+    margin: 10px;
+}
+.lan ul li{
+    margin: 10px;
+}
+#tion{
+    margin: 20px;
+}
+#are{
+    margin: 10px;
+    padding: 10px;
+}
+.my{
+    padding: 5px 10px;
+}
+#loca{
+    font-size:20px ;
+    position: relative;
+    bottom: 2px;
+    right: 10px;
+    color:  rgb(159, 46, 8);
+}
+#insta{
+    font-size: 50px;
+    margin: 10px;
+    background-color: rgb(159, 46, 8) ;
+    color: white;
+    border-radius: 5px;
+}
+#usee{
+    color: rgb(159, 46, 8) ;
+    margin: 30px;
+    font-size: 30px;
+}
