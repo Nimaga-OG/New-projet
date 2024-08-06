@@ -138,3 +138,7 @@ img{
     margin: 30px;
     font-size: 30px;
 }
+#phon{
+    position: relative;
+    bottom: 100px;
+}
